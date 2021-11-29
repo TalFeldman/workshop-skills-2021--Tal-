@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hello
+
+>>>>>>> efeb197 (commit b2-1)
